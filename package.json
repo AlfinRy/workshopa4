@@ -3,5 +3,8 @@
     "prettier": "^3.0.1",
     "prettier-plugin-tailwindcss": "^0.5.1",
     "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "typed.js": "^2.0.16"
   }
 }
